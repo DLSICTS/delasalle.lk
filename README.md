@@ -65,7 +65,7 @@ Visit our website: [https://delasalle.lk/](https://delasalle.lk/)
 
 ### Announcements
 
-We are now live as [official website 🚀](https://kasuncfdo.github.io/dls).
+We are now live as [official website 🚀](https://delasalle.lk/).
 
 
 <p>We are delighted to announce the launch of our new  college website. We are pleased to officially announce the launch on June, 2022, about 03 months of hard effort and commitment by Mast. Kasun Chanuka Fernando (Student of DLS, A/L Section). We intended to make the new website more user-friendly for our visitors by making it faster, easier to navigate, and more mobile-friendly,a more convenient approach to learn more about De La Salle College and browse information according to their preferences</P>
