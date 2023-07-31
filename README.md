@@ -11,7 +11,7 @@
 
 <p align="center">
     <a href="https://delasalle.lk/">Delasalle.lk</a> •
-    <a href="https://delasalle.lk/newsroom">Newsroom</a> •
+    <a href="https://delasalle.lk/news">Newsroom</a> •
     <a href="https://www.linkedin.com/school/delasallelk/">Linkedin</a> •
     <a href="https://twitter.com/delasallelk/">Twitter</a>
     <br /><br />
@@ -44,6 +44,8 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/kasuncfdo/dls?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/kasuncfdo/dls?style=plastic)
 
 Welcome to the official GitHub repository for [De La Salle College](https://delasalle.lk/)! This repository contains the source code and resources for our website, which serves as the online hub for De La Salle College, a leading educational institution in Sri Lanka. We aim to create an online platform that is engaging, informative, and user-friendly for our students, staff, and the broader community.
+
+### Please note that delasalle.lk is the sole official website of De La Salle College, Colombo and we hold exclusive rights to update and manage its contents. Using our website's materials without proper permission raises significant legal and ethical issues. We have invested considerable time and resources in creating and maintaining our website, and the unauthorized duplication of our content undermines our efforts.
 
 ## Overview
 
