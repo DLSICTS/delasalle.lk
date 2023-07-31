@@ -96,9 +96,6 @@ We welcome contributions from our college community and other interested parties
 
 Before contributing, please ensure you read and adhere to our [contribution guidelines](CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
